@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tasty Recipes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tasty Recipes</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#appetizers">Appetizers</a></li>
+                <li><a href="#main-courses">Main Courses</a></li>
+                <li><a href="#desserts">Desserts</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Welcome to Tasty Recipes!</h2>
+            <p>Your go-to place for delicious recipes from around the world.</p>
+        </section>
+
+        <section id="appetizers">
+            <h2>Appetizers</h2>
+            <article>
+                <h3>Bruschetta</h3>
+                <p>A classic Italian appetizer made with fresh tomatoes, basil, and mozzarella on toasted bread.</p>
+            </article>
+            <article>
+                <h3>Stuffed Mushrooms</h3>
+                <p>Delicious mushrooms stuffed with cheese, herbs, and breadcrumbs.</p>
+            </article>
+        </section>
+
+        <section id="main-courses">
+            <h2>Main Courses</h2>
+            <article>
+                <h3>Spaghetti Carbonara</h3>
+                <p>A rich pasta dish made with eggs, cheese, pancetta, and pepper.</p>
+            </article>
+            <article>
+                <h3>Grilled Chicken</h3>
+                <p>Juicy chicken marinated and grilled to perfection, served with seasonal vegetables.</p>
+            </article>
+        </section>
+
+        <section id="desserts">
+            <h2>Desserts</h2>
+            <article>
+                <h3>Chocolate Mousse</h3>
+                <p>A rich and creamy chocolate dessert that melts in your mouth.</p>
+            </article>
+            <article>
+                <h3>Fruit Tart</h3>
+                <p>A flaky crust filled with pastry cream and topped with fresh fruits.</p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Tasty Recipes. All rights reserved.</p>
+    </footer>
+</body>
+</html>
